@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 余弦の博客
-subtitle: WA的一声就哭了
+title: 阿甘の博客
+subtitle: 每天进步一点
 description: 愿岁并谢，与友长兮
-keywords: 前端, React, 全栈
-author: cos
+keywords: 后端, AI, AIGC
+author: agan
 language: zh-CN # 这里只可以选 zh-CN、zh-HK、zh-TW、ja、en 这几个格式
 timezone: 'Asia/Shanghai'
 
